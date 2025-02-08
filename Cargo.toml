@@ -1,0 +1,8 @@
+[package]
+name = "erasure-code-calculator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+env_logger = "0.11.6" # For logging to console
+log = "0.4.25"
